@@ -1,6 +1,6 @@
 ## Hi, I'm Atilla 👋
 
-**Game programmer and software engineer** based in Leipzig, Germany. BSc Software Engineering, Lancaster University Leipzig (2026).
+**Game programmer and software engineer** based in Istanbul, Turkey, and open to relocation (EU citizen). BSc Software Engineering, Lancaster University Leipzig (2026).
 
 I build games end to end, from server-side gameplay systems to rigged, animated 3D characters. Right now I'm finishing **Tower Conquest**, a Roblox action roguelike I'm developing solo.
 
