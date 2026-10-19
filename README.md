@@ -15,8 +15,8 @@ I build games end to end, from server-side gameplay systems to rigged, animated 
 
 ### Skills
 
-**Languages:** C++, C#, Luau, Python, Java, JavaScript/TypeScript, Haskell, MIPS assembly, SQL
-**Engines and tools:** Roblox Studio, Unity, Unreal Engine, Blender, Git
+- **Languages:** C++, C#, Luau, Python, Java, JavaScript/TypeScript, Haskell, MIPS assembly, SQL
+- **Engines and tools:** Roblox Studio, Unity, Unreal Engine, Blender, Git
 
 ### Contact
 
